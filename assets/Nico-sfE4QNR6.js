@@ -1,1 +1,0 @@
-import{j as e}from"./index-DWu8f4iG.js";function s(){return e.jsxs("div",{className:" h-screen w-screen flex flex-col items-center justify-center bg-red-800 ",children:[e.jsx("img",{src:"logo.png",className:" h-[500px]",alt:""}),e.jsx("h1",{className:"text-5xl font-extrabold text-white hover:text-yellow-500",children:"Ian Nico Caulin"})]})}export{s as default};
